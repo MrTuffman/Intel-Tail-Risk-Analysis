@@ -1,0 +1,21 @@
+{
+  "ticker": "INTC",
+  "name": "Intel",
+  "source_csv": "HistoricalData_1786949137896.csv",
+  "n_prices": 2512,
+  "n_returns": 2511,
+  "n_positive_losses": 1228,
+  "start": "2016-08-17",
+  "end": "2026-08-14",
+  "k_star": 167,
+  "alpha_hat": 2.2016094099928787,
+  "threshold_loss": 0.03448163691985433,
+  "variance_finite": true,
+  "kurtosis_finite": false,
+  "gaussian_99_var": -0.06607682560459219,
+  "n_breaches": 37,
+  "expected_breaches": 25.11000000000002,
+  "actual_breaches_per_year": 3.704564144736842,
+  "expected_breaches_per_year": 2.514097450657897,
+  "sample_years": 9.987679671457906
+}
